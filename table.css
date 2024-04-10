@@ -1,0 +1,61 @@
+body > table{
+    /* width: 60%; */
+    padding: 20px;
+}
+.list td, th{
+    border-collapse: collapse;
+    width: 800px;
+    padding: 50px;
+    border: 1px solid black;
+
+
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+input{
+    width: 100%;
+    padding: 4px;
+    padding-top: 10px;
+
+    margin: 8px 0;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* form div.button{
+text-align: right;
+    width: 20%; */
+
+.div2 label{
+    padding-left: 12px;
+}
+.div3 label{
+    padding-left: 17px;
+}
+.div4 label{
+    padding-left: 25px;
+}
+    button{
+        width: 150px;
+        height: 35px;
+      margin-left: 30px;
+    }
+
+/* tr:nth-child(even),table.list thead>tr{
+    background-color: #dddddd;
+} */
+.list{
+    width: 60%;
+}
+/* form div.form-action-buttons{
+    text-align: right;
+    width: 20%; */
+
+input :hover{
+    
+}
+button:hover{
+    background-color: grey;
+    color: aliceblue;
+}
